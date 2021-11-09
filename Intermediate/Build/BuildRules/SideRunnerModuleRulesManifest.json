@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Code\\UnrealProjects\\SideRunner\\Source\\SideRunner\\SideRunner.Build.cs",
+		"D:\\Code\\UnrealProjects\\SideRunner\\Source\\SideRunner.Target.cs",
+		"D:\\Code\\UnrealProjects\\SideRunner\\Source\\SideRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

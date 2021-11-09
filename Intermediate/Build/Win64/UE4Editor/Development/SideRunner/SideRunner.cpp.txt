@@ -1,0 +1,2 @@
+D:\Code\UnrealProjects\SideRunner\Intermediate\Build\Win64\UE4Editor\Development\SideRunner\Definitions.SideRunner.h
+D:\Code\UnrealProjects\SideRunner\Source\SideRunner\SideRunner.h

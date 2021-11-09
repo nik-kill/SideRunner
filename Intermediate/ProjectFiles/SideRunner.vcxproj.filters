@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SideRunner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B10E7E0-C824-494B-854C-579425AAC5B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SideRunner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SideRunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CCFFB47F-C8CF-4588-87A1-90109BE072D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SideRunner">
+      <UniqueIdentifier>{6B5D6669-8EEA-4D4C-AA5F-F2CFFDCAF0E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SideRunner\BaseLevel.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\BaseLevel.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\Obstacle.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\Obstacle.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\RunnerCharacter.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\RunnerCharacter.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SideRunner\SideRunner.Build.cs">
+      <Filter>Source\SideRunner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SideRunner\SideRunner.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\SideRunner.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\SideRunnerCharacter.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\SideRunnerCharacter.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\SideRunnerGameMode.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\SideRunnerGameMode.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\SpawnLevel.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\SpawnLevel.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\Spikes.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\Spikes.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SideRunner\WallSpike.cpp">
+      <Filter>Source\SideRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SideRunner\WallSpike.h">
+      <Filter>Source\SideRunner</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

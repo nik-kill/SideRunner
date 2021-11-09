@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SideRunner",
+			"Path": "D:\\Code\\UnrealProjects\\SideRunner\\Source\\SideRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SideRunnerEditor",
+			"Path": "D:\\Code\\UnrealProjects\\SideRunner\\Source\\SideRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
